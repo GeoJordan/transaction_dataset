@@ -1,4 +1,5 @@
-# Creating Customer Transaction Dataset¶
+# Transaction Dataset
+## Creating Customer Transaction Dataset¶
 
 Once I was faced with a challenge of creating an ecommerce customer transaction dataset using multiple datasets on an eCommerce platform. This company wants to use the new dataset to analyze products and customers to support their marketing campaigns. From this dataset, the business I would create additional datasets containing transaction matrix like order data, customer data, and product data, to enable me perform modeling, analysis, and even reporting of my findings.
 
